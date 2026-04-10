@@ -2,10 +2,11 @@
 
 这个目录统一沉淀当前对外可用的定位结论和品牌话术。
 
-## 本目录当前包含的四类内容
+## 本目录当前包含的五类内容
 
 - 品牌与定位表达：我们是谁，怎么介绍自己
 - 具体产品定义：先把方法论收敛成可卖的产品抓手
+- Agent 岗位与 KPI 设计：把 Agent 当成虚拟岗位来定义职责、边界和绩效
 - `S.T.A.` 产品架构：怎么把 `See / Think / Act` 变成交付框架
 - `AI Sprint` 方法：怎么让客户在短周期内亲眼看到价值
 
@@ -13,6 +14,7 @@
 
 - [AI_Agent_绩效.md](/Users/lance7in/workspace/repos/my/linearv_marketing/公司定位/03_定位与品牌/AI_Agent_绩效.md)
 - [AI_安全.md](/Users/lance7in/workspace/repos/my/linearv_marketing/公司定位/03_定位与品牌/AI_安全.md)
+- [Agent_岗位与KPI设计.md](/Users/lance7in/workspace/repos/my/linearv_marketing/公司定位/03_定位与品牌/Agent_岗位与KPI设计.md)
 - [S.T.A_产品架构.md](/Users/lance7in/workspace/repos/my/linearv_marketing/公司定位/03_定位与品牌/S.T.A_产品架构.md)
 - [AI_Sprint_方案.md](/Users/lance7in/workspace/repos/my/linearv_marketing/公司定位/03_定位与品牌/AI_Sprint_方案.md)
 - [销售话术模拟案例.md](/Users/lance7in/workspace/repos/my/linearv_marketing/公司定位/03_定位与品牌/销售话术模拟案例.md)
@@ -25,6 +27,7 @@
 - 长期可以朝客户的关键操作层演进，但当前不宜过早宣称自己是 `企业操作系统` 或 `Foundational Software`。
 - 当前销售上最难打败的，不是某家咨询公司或软件公司，而是客户内部“先凑合搭起来”的惯性。
 - 当前第一批最具体、最容易被客户理解的产品抓手是：`AI Agent绩效` 和 `AI安全`。
+- 在这两个产品之外，还需要一套 `Agent 岗位与 KPI` 设计语言，帮助客户把 Agent 纳入正式治理和经营体系。
 
 ## 品牌层
 
@@ -69,6 +72,19 @@
 - 把 Agent 从“先凑合用”推进到“可以放心用”
 
 详细内容见 [AI_安全.md](/Users/lance7in/workspace/repos/my/linearv_marketing/公司定位/03_定位与品牌/AI_安全.md)。
+
+## Agent 岗位与 KPI 设计
+
+这一层解决的问题不是“人怎么考核”，也不是“用哪个 Agent 平台”，而是：
+
+- 这个 Agent 到底算什么岗位
+- 它替谁解决什么问题
+- 它能做什么、不能做什么
+- 该用哪些 KPI 来判断它是否真的创造了业务结果
+
+这部分是 `AI Agent绩效` 的方法论底座，也是后续对外销售时很重要的一层认知教育。
+
+详细内容见 [Agent_岗位与KPI设计.md](/Users/lance7in/workspace/repos/my/linearv_marketing/公司定位/03_定位与品牌/Agent_岗位与KPI设计.md)。
 
 ## `S.T.A.` 从品牌口号到产品架构
 
