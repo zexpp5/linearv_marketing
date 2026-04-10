@@ -2,14 +2,17 @@
 
 这个目录统一沉淀当前对外可用的定位结论和品牌话术。
 
-## 本目录当前包含的三类内容
+## 本目录当前包含的四类内容
 
 - 品牌与定位表达：我们是谁，怎么介绍自己
+- 具体产品定义：先把方法论收敛成可卖的产品抓手
 - `S.T.A.` 产品架构：怎么把 `See / Think / Act` 变成交付框架
 - `AI Sprint` 方法：怎么让客户在短周期内亲眼看到价值
 
 相关文档：
 
+- [AI_Agent_绩效.md](/Users/lance7in/workspace/repos/my/linearv_marketing/公司定位/03_定位与品牌/AI_Agent_绩效.md)
+- [AI_安全.md](/Users/lance7in/workspace/repos/my/linearv_marketing/公司定位/03_定位与品牌/AI_安全.md)
 - [S.T.A_产品架构.md](/Users/lance7in/workspace/repos/my/linearv_marketing/公司定位/03_定位与品牌/S.T.A_产品架构.md)
 - [AI_Sprint_方案.md](/Users/lance7in/workspace/repos/my/linearv_marketing/公司定位/03_定位与品牌/AI_Sprint_方案.md)
 - [销售话术模拟案例.md](/Users/lance7in/workspace/repos/my/linearv_marketing/公司定位/03_定位与品牌/销售话术模拟案例.md)
@@ -21,6 +24,7 @@
 - 我们当前更适合把自己定义为：`基于顶尖大模型，为企业构建 AI 决策与执行系统的应用方案商。`
 - 长期可以朝客户的关键操作层演进，但当前不宜过早宣称自己是 `企业操作系统` 或 `Foundational Software`。
 - 当前销售上最难打败的，不是某家咨询公司或软件公司，而是客户内部“先凑合搭起来”的惯性。
+- 当前第一批最具体、最容易被客户理解的产品抓手是：`AI Agent绩效` 和 `AI安全`。
 
 ## 品牌层
 
@@ -39,6 +43,32 @@
 - `Act`：推动执行、落地动作、形成结果
 
 这个结构适合作为官网、deck、行业页和产品线表达的统一骨架。
+
+## 当前具体产品
+
+### 1. `AI Agent绩效`
+
+这个产品用于解决企业在 Agent 数量增加之后，看不清哪些 Agent 真有效、哪些 Agent 在制造噪音、哪些 Agent 该继续扩、该收缩还是该下线的问题。
+
+核心价值：
+
+- 看见 Agent 的真实产出，而不只是“已经部署了”
+- 建立成功率、接管率、错误率、成本和 ROI 的统一视图
+- 把 Agent 从“能跑”推进到“能被管理”
+
+详细内容见 [AI_Agent_绩效.md](/Users/lance7in/workspace/repos/my/linearv_marketing/公司定位/03_定位与品牌/AI_Agent_绩效.md)。
+
+### 2. `AI安全`
+
+这个产品用于解决企业在 Agent 扩张之后，对权限、审计、合规、动作验证和风险控制的需求。
+
+核心价值：
+
+- 让 Agent 的数据访问和动作执行处于可控状态
+- 让敏感决策、关键动作和高风险场景可审计、可回滚、可追责
+- 把 Agent 从“先凑合用”推进到“可以放心用”
+
+详细内容见 [AI_安全.md](/Users/lance7in/workspace/repos/my/linearv_marketing/公司定位/03_定位与品牌/AI_安全.md)。
 
 ## `S.T.A.` 从品牌口号到产品架构
 
@@ -153,6 +183,7 @@ LinearVision 帮助企业把 AI 从“能不能用”推进到“能不能真正
 - 一个能够快速验证价值的销售动作，例如 [AI_Sprint_方案.md](/Users/lance7in/workspace/repos/my/linearv_marketing/公司定位/03_定位与品牌/AI_Sprint_方案.md)
 - 一个清晰答案：客户为什么用了我们之后不想换掉我们
 - 一套能正面回应“我们内部已经先用 Dify/自研搭起来了”的销售话术
+- 两个产品线在真实客户场景下的 MVP 范围和首批案例
 
 ## 当前销售切入判断
 
@@ -169,6 +200,7 @@ LinearVision 帮助企业把 AI 从“能不能用”推进到“能不能真正
 - 不为了显得高级而提前使用超出当前阶段的自我定义
 - 不直接卖“架构设计”这个抽象概念，而是卖客户能在短时间看见的价值
 - 不把客户当前的 DIY 尝试说成错误，而是承认那是正常阶段，再指出它为什么会在扩张时失控
+- 不只讲方法论，也要讲客户能买到的具体产品切口
 
 ## 使用建议
 
