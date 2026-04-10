@@ -2,11 +2,12 @@
 
 这个目录统一沉淀当前对外可用的定位结论和品牌话术。
 
-## 本目录当前包含的五类内容
+## 本目录当前包含的六类内容
 
 - 品牌与定位表达：我们是谁，怎么介绍自己
 - 具体产品定义：先把方法论收敛成可卖的产品抓手
 - Agent 岗位与 KPI 设计：把 Agent 当成虚拟岗位来定义职责、边界和绩效
+- 广告与传播文案：沉淀 slogan、广告语和传播测试素材
 - `S.T.A.` 产品架构：怎么把 `See / Think / Act` 变成交付框架
 - `AI Sprint` 方法：怎么让客户在短周期内亲眼看到价值
 
@@ -15,6 +16,7 @@
 - [AI_Agent_绩效.md](/Users/lance7in/workspace/repos/my/linearv_marketing/公司定位/03_定位与品牌/AI_Agent_绩效.md)
 - [AI_安全.md](/Users/lance7in/workspace/repos/my/linearv_marketing/公司定位/03_定位与品牌/AI_安全.md)
 - [Agent_岗位与KPI设计.md](/Users/lance7in/workspace/repos/my/linearv_marketing/公司定位/03_定位与品牌/Agent_岗位与KPI设计.md)
+- [潜在广告语.md](/Users/lance7in/workspace/repos/my/linearv_marketing/公司定位/03_定位与品牌/广告/潜在广告语.md)
 - [S.T.A_产品架构.md](/Users/lance7in/workspace/repos/my/linearv_marketing/公司定位/03_定位与品牌/S.T.A_产品架构.md)
 - [AI_Sprint_方案.md](/Users/lance7in/workspace/repos/my/linearv_marketing/公司定位/03_定位与品牌/AI_Sprint_方案.md)
 - [销售话术模拟案例.md](/Users/lance7in/workspace/repos/my/linearv_marketing/公司定位/03_定位与品牌/销售话术模拟案例.md)
