@@ -323,6 +323,8 @@ def cmd_collect(clean=False):
 
             if follower_count > 5000000:
                 continue
+            if follower_count < 1000:
+                continue
             if not is_ai_account(nickname, signature):
                 continue
 
